@@ -1,0 +1,42 @@
+img{
+    width: 100%;
+    max-width: 300px;
+    border: solid black 5px;
+    border-radius: 50%;
+    align-items: right;
+}
+body{
+    background-color: #69FF89;
+}
+h1,h2{
+    font-family: 'Amatic SC', cursive;
+    color: #F2E08A;
+    font: bold;
+    text-align: center;
+    transition: 1s ease-in-out ;
+    
+}
+
+p,li{
+    font-family: 'Allison', cursive;
+    text-align: center;
+}
+li{
+    text-align: left;
+}
+h1, h2{
+background-color: teal;
+border-radius: 50%;
+border: black solid 2px;
+}
+
+h2:hover{
+    background-color:#0d1111;
+    font-size: 60px;
+    
+    
+}
+a:hover{
+    background-color:#5DF0EE;
+    font-size: 30px;
+}
